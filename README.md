@@ -39,4 +39,4 @@ La aplicación **VestiApp** es una solución móvil diseñada para optimizar la 
 ## 🛠️ Instrucciones para Ejecutar el Proyecto
 1. Clonar el repositorio público:
    ```bash
-   git clone [https://github.com/TU_USUARIO/ProbadoresApp-DSY1105.git](https://github.com/TU_USUARIO/ProbadoresApp-DSY1105.git)
+   git clone https://github.com/TU_USUARIO/ProbadoresApp-DSY1105.git
